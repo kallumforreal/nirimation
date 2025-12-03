@@ -48,3 +48,4 @@ window-open {
             return fall_and_rotate(coords_geo, size_geo);
         }"
     }
+}
